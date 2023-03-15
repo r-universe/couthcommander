@@ -8,3 +8,8 @@
 	url = https://github.com/couthcommander/packagediff
 	shallow = true
 	registered = true
+[submodule "pkdata"]
+	path = pkdata
+	url = https://github.com/couthcommander/pkdata
+	shallow = true
+	registered = true

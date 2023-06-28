@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "packageDiff"]
 	path = packageDiff
 	url = https://github.com/couthcommander/packagediff
-	shallow = true
-	registered = true
 [submodule "pkdata"]
 	path = pkdata
 	url = https://github.com/couthcommander/pkdata
-	shallow = true
-	registered = true
